@@ -1,0 +1,29 @@
+h1 {
+    font-weight:700;
+    font-size:x-large;
+}
+
+h5 {
+    font-size:large;
+}
+
+ul, ol{
+    background-color: yellow;
+}
+
+img {
+    width:300px;
+    height:auto;
+}
+
+.A{
+    color:blue;
+}
+
+.Instructions{
+    color: olivedrab;
+}
+
+.Ingredients{
+    color:maroon;
+}
